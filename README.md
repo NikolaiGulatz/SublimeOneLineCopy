@@ -1,6 +1,6 @@
-# Sublime Text 3 OneLineCopy
+# Sublime OneLineCopy
 
-Sublime plugin which allows copying multiple lines to the clipboard as one line
+Sublime Text 3 plugin which allows copying multiple lines to the clipboard as one line
 by removing lines breaks and redundant spaces. Useful for quickly copying and 
 pasting small blocks of Ruby code into the Rails console.
 
